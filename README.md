@@ -354,15 +354,21 @@ public class MainActivity extends AppCompatActivity {
 
 <img width="1533" height="920" alt="640090613-494b45e1-518f-43ea-9ea9-d9cf7e2e466b" src="https://github.com/user-attachments/assets/6851f8ee-f2bc-4f42-be2b-35038436af9a" />
 
+
 <img width="423" height="877" alt="640090631-71b5fc6c-3b3e-4fa7-876c-b91495fccda0" src="https://github.com/user-attachments/assets/c547d535-c377-45b2-89db-5a6e92d1f87e" />
+
 
 <img width="422" height="868" alt="640090658-7e62579c-c59c-4292-80d6-666be4f5a30d" src="https://github.com/user-attachments/assets/b0cb1b0e-2e55-4a84-b08a-af1f9858f14c" />
 
+
 <img width="427" height="881" alt="640090676-b096e0f1-22b5-4223-b03e-7bd85bc71b24" src="https://github.com/user-attachments/assets/2493efe6-bc74-4ce2-b223-bc223da56a49" />
+
 
 <img width="425" height="897" alt="640090697-7d00b86e-ae40-4333-8f4b-558c1739566a" src="https://github.com/user-attachments/assets/a06cae19-cfb7-43c4-9f18-8a76e50f09a9" />
 
+
 <img width="418" height="872" alt="640090724-2f26227e-3d06-4e40-8d4d-3fd6b503f7c3" src="https://github.com/user-attachments/assets/98332138-6dd5-41b7-afaa-8a75ccf1b90a" />
+
 
 <img width="416" height="886" alt="640090753-c9d49f57-fcd1-42c0-a617-949a869655aa" src="https://github.com/user-attachments/assets/6562da5d-d524-406b-9982-d404d57fd07e" />
 
