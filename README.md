@@ -364,8 +364,6 @@ public class MainActivity extends AppCompatActivity {
 
 <img width="418" height="872" alt="640090724-2f26227e-3d06-4e40-8d4d-3fd6b503f7c3" src="https://github.com/user-attachments/assets/98332138-6dd5-41b7-afaa-8a75ccf1b90a" />
 
-
-
 <img width="416" height="886" alt="640090753-c9d49f57-fcd1-42c0-a617-949a869655aa" src="https://github.com/user-attachments/assets/6562da5d-d524-406b-9982-d404d57fd07e" />
 
 ## RESULT
